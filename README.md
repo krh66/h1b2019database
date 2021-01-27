@@ -1,5 +1,7 @@
-# h1b2019database
-A python script that load 2019 h1b petition data into local sqlite database
+# This project is derived from @fatliau/h1b2019database
+
+# h1b2020database
+A python script that load 2020 h1b petition data into local sqlite database
 
 ## requirements
 1. python 3
